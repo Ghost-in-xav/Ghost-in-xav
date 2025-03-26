@@ -1,6 +1,6 @@
 ## Hi, I'm Xavier 
 
-🧠 Computer science student at EPITA <br>
+🧠 Computer science student at [EPITA](https://www.epita.fr/en/) <br>
 ⏳ Engineering degree planned for 2027 <br>
 🔎 Here you'll find my personal and academic project <br>
 📲 Feel free to contact me on [Instagram](https://www.instagram.com/xav.iou/) <br>
