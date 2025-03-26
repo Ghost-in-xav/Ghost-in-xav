@@ -1,4 +1,4 @@
-## Hi, I'm Xavier 
+## Hi, I'm Xavier  
 
 🧠 Computer science student at [EPITA](https://www.epita.fr/en/) <br>
 ⏳ Engineering degree planned for 2027 <br>
